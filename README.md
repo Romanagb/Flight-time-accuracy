@@ -1,6 +1,7 @@
 ML project for predicting flight time accuracy
 
 Contact: romanagbyev@gmail.com
+
          edenhasson@gmail.com
         
         
