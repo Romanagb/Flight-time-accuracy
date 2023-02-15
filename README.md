@@ -19,6 +19,6 @@ Step 2: Cleaning and formating the data: Data_Cleaning.ipynb
 
 Step 3: EDA: EDA.ipynb. Main tools: pyplot, seaborn.
 
-Step 4: Modeling: Modeling.ipynb Linear Regression (Supervised), Models used and explored: LinearRegressionClassifier, DecisionTreeRegressor.
+Step 4: Modeling: Modeling.ipynb Linear Regression (Supervised), Models used and explored: LinearRegressionClassifier, DecisionTreeRegressor and RandomForestRegressor.
 
 Step 5: Understanding and drawing conclusions from our results.
