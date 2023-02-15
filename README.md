@@ -21,4 +21,4 @@ Step 3: EDA: EDA.ipynb. Main tools: pyplot, seaborn.
 
 Step 4: Modeling: Modeling.ipynb Linear Regression (Supervised), Models used and explored: LinearRegressionClassifier, DecisionTreeRegressor.
 
-Step 5: Understanding and drawing conclusions from our results, finalizing our Machine Learning model: Final.ipynb
+Step 5: Understanding and drawing conclusions from our results.
